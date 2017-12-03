@@ -1,0 +1,26 @@
+body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-family: "Comic Sans MS", serif;
+}
+
+h2 {
+    font-family: "Arbat", serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+ul {
+    font-weight: bold;
+    font-size: 18px;
+    list-style-image: url("../img/marker.png");
+}
